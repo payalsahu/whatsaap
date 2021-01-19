@@ -1,0 +1,77 @@
+.back-top{
+    background-color: #009688;
+    height: 15vh;
+}
+.back-main{
+    background-color:rgb(214, 207, 207);
+    height: 85vh;
+}
+.back-container{
+    position: relative;
+}
+.front-container{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+.front-container1{
+    position: absolute;
+    top: 20px;
+    left: 0;
+    right: 0;
+}
+.chat-top{
+    background-color:#EDEDED;
+    min-height: 50px;
+}
+.col-sm-4{
+    border-left: brown;
+}
+.profile-image{
+    margin-top:7px ;
+    height: 30px;
+    width: 30px;
+}
+.span{
+    float: left;
+    margin-top: 2;
+}
+.contacts{
+    background-color: #ffffff;
+    min-height: 600px;
+}
+.contact-table-scroll{
+    overflow-y: scroll;
+    height: 600px;
+}
+.massage-area{
+    background-color: #e4e1de;
+    min-height: 600px;
+}
+.bg-primary {
+    padding:2;
+    margin-top: 2px;
+    margin:2px;
+    box-shadow:small;
+    text-emphasis:white;
+    float: left;
+}
+.bg-success {
+    padding:2;
+    margin-top: 2px;
+    margin:2px;
+    box-shadow:small;
+    text-emphasis:white;
+    float:right;
+}
+.massage-table-scroll{
+    overflow-y: scroll;
+    height: 550px;
+}
+.row-massage-box{
+    margin: 3px;
+}
+.col-sm-2{
+    margin-top: 2px;
+}
